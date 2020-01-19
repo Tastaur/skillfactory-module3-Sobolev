@@ -32,7 +32,7 @@ font-family: serif;
     margin-top: 20px;
     margin-left: 40%;
     transition-property: all;
-    transition-duration: 3s;
+    transition-duration: 0.5s;
 }
 .photo:hover{
     border-radius: 30%;
