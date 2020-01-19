@@ -1,0 +1,52 @@
+body {
+    font-family: cursive;
+    font-size: 14px;
+    background-color: rgb(192, 192, 192);
+    }
+div{
+    background-color: rgb(95, 95, 255) ;
+    position: sticky;
+    top: 0;
+    height: 90px;
+    margin-top: -15px;
+    margin-left: -10px;
+    margin-right: -10px ;
+    color: gold;
+    text-align: center;
+}
+    h1{
+        font-family: serif;
+        text-align: center;
+        padding-top: 20px;
+    }
+.top {
+    margin-right: 50px;
+    color: gold;
+}
+h2 {
+text-align: center;
+font-family: serif;
+}
+.photo {
+    border-radius: 30%;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+.familyphoto {
+    margin-left: 27%;
+    border-radius: 20%;
+}
+.spartak{
+    color: red;
+    font-weight: bolder;
+}
+.spartak:hover {
+    color: white;
+    background-color: red;
+    font-weight: bolder;
+}
+footer{
+    background-color: rgb(95, 95, 255);
+    color: gold;
+    border: 10px solid rgb(95, 95, 255);
+}
